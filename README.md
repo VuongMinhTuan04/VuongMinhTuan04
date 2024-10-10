@@ -1,11 +1,6 @@
-<table style="background-color: #333333;">
-  <h1 align="center" style="color: #ffffff;">Hi 👋, I'm Vuong Minh Tuan</h1>
+<h1 align="center" style="color: #ffffff;">Hi 👋, I'm Vuong Minh Tuan</h1>
 <h3 align="center" style="color: #cccccc;">A passionate backend developer from Viet Nam</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="border: 2px solid #ffffff; border-radius: 8px;">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vuongminhtuan04&label=Profile%20views&color=0e75b6&style=flat" alt="vuongminhtuan04" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 🔭 I’m currently working on: **Eclipse, Intellij**
 
@@ -50,5 +45,3 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vuongminhtuan04&show_icons=true&locale=en&layout=compact" alt="vuongminhtuan04" /></p>
-
-</table>
