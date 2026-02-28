@@ -2,11 +2,11 @@
 <h3 align="center" style="color: #cccccc;">A passionate backend developer from Viet Nam</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="border: 2px solid #ffffff; border-radius: 8px;">
 
-🔭 I’m currently working on: **Eclipse, Intellij**
+🔭 I’m currently working on: **Visual Studio Code**
 
-🌱 My Framework Is: **Spring Boot, Spring Security, Spring MVC,...**
+🌱 My Framework Is: **ExpressJS**
 
-💬 My Language Is: **Java**
+💬 My Language Is: **Javascript, TypeScript, NodeJS**
 
 📫 Contact Me: **vuongtuan1357@gmail.com** or **0359567792**
 
