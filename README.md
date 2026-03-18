@@ -8,7 +8,7 @@
 ---
 
 ## 🧠 About Me
-- 🔭 Currently learning & building with **Node.js & Express**
+- 🔭 Currently learning & building with **JavaScript & Express JS**
 - 🌱 Focusing on **Backend Development**
 - 💡 Interested in building APIs, systems & scalable apps
 - 📍 Based in Vietnam
@@ -42,7 +42,7 @@
 
 ## 🌐 Connect With Me
 <p>
-  <a href="https://instagram.com/bee140224">
+  <a href="https://www.facebook.com/minh.tuan.254782">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
@@ -51,14 +51,5 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vuongminhtuan04&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuongminhtuan04&layout=compact&theme=tokyonight" />
 </p>
-
----
-
-## ⚡ Quote
-> “Focus on building real systems, not just writing code.”
