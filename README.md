@@ -1,55 +1,79 @@
 <h1 align="center">Hi 👋, I'm Vuong Minh Tuan</h1>
-<h3 align="center">🚀 Backend Developer (JavaScript / Express JS)</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Node.js+%7C+Express;Building+APIs+Everyday" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280"/>
 </p>
 
 ---
 
 ## 🧠 About Me
-- 🔭 Currently learning & building with **JavaScript & Express JS**
-- 🌱 Focusing on **Backend Development**
-- 💡 Interested in building APIs, systems & scalable apps
-- 📍 Based in Vietnam
+
+<table>
+<tr>
+<td width="50%">
+
+- 🔭 Currently learning **JavaScript & Express JS**  
+- 🌱 Focused on **Backend Development**  
+- 📍 Based in Vietnam  
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuongminhtuan04&layout=compact&theme=tokyonight" />
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
+<table>
+<tr>
+<td align="center" width="33%">
+
 ### 🚀 Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express" />
-</p>
+<img src="https://skillicons.dev/icons?i=js,express" />
+
+</td>
+
+<td align="center" width="33%">
 
 ### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
 
-### 🎨 Frontend (Basic)
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css" />
-</p>
+</td>
+
+<td align="center" width="33%">
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css" />
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📫 Contact Me
-- 📧 Email: **vuongtuan1357@gmail.com**
-- 📱 Phone: **0359567792**
 
----
-
-## 🌐 Connect With Me
-<p>
-  <a href="https://www.facebook.com/minh.tuan.254782">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
+<p align="center">
+  📧 <b>Email:</b> vuongtuan1357@gmail.com <br/>
+  📱 <b>Phone:</b> 0359567792
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Connect With Me
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuongminhtuan04&layout=compact&theme=tokyonight" />
+  <a href="https://www.facebook.com/minh.tuan.254782">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" />
+  </a>
 </p>
