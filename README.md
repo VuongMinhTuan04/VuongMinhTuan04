@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vuong Minh Tuan</h1>
-<h3 align="center">🚀 Backend Developer (Node.js / Express)</h3>
+<h3 align="center">🚀 Backend Developer (JavaScript / Express JS)</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
