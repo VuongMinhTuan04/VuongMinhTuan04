@@ -21,12 +21,6 @@
 - 📍 Based in Vietnam  
 
 </td>
-
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuongminhtuan04&layout=compact&theme=tokyonight" />
-
-</td>
 </tr>
 </table>
 
